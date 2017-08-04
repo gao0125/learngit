@@ -1,0 +1,76 @@
+.fl-top{
+  width: 100%;
+  background: #f96f29;
+  position: fixed;
+  top: 0;
+  height: 45px;
+}
+.fenlei-wrap{
+  width: 100%;
+  padding-bottom: 55px;
+  background: #f3f3f3;
+}
+.fenlei-content-wrap{
+  padding-top: 45px;
+}
+.fenlei-content-left{
+  float: left;
+  width: 20%;
+  text-align: center;
+  position:fixed;
+  font-size: 12px;
+}
+.fenlei-content-left li{
+  line-height: 47px;
+  border-bottom: 1px solid #f3f3f3;
+}
+.fenlei-content-right{
+  float: right;
+  width: 77%;
+  margin-right: 2%;
+  /*height: 540px;*/
+  overflow-y: scroll;
+
+}
+.fenlei-content-right::-webkit-scrollbar
+{
+  width: 0;
+  height: 0;
+  background-color: #ffffff;
+}
+.fenlei-content-right-top{
+  color: #343434;
+  font-size: 12px;
+  line-height: 24px;
+  margin-left: 2%;
+}
+.fenlei-content-right-con-le{
+  margin-bottom: 10px;
+  float: left;
+  width: 47%;
+  margin-left: 2%;
+  background: #ffffff;
+  padding-top: 8px;
+  text-align: center;
+}
+.fenlei-content-right-con-le p{
+  line-height: 26px;
+  color: #343434;
+  font-size: 9px;
+}
+.scs{
+  background: #ffffff;
+  color: #343434;
+}
+.scst{
+  background: #f3f3f3;
+  color: #f96f29;
+}
+.qyx-wrap .shequ-content-wrap{
+  padding-top: 44px;
+}
+.denglu-top-wrap{
+  position: fixed;
+  top: 0;
+  z-index: 1;
+}
