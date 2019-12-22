@@ -11,7 +11,7 @@ Vue.use(VueResource);
 import Validator from 'vue-validator'
 Vue.use(Validator)
 Vue.http.options.emulateJSON = true;
-//Vue.prototype.token = "c9417824296769475271a2a256b0826a_$1"
+Vue.prototype.token = "c9417824296769475271a2a256b0826a_$1"
 
 
 
